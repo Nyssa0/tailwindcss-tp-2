@@ -14,6 +14,7 @@ module.exports = {
       },
       gridTemplateColumns: {
         'hero-input': '1fr, max-content',
+        'section': '0.3fr, auto',
       }
     },
   },
